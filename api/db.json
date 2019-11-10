@@ -1,0 +1,46 @@
+{
+  "streams": [
+    {
+      "title": "My Stream",
+      "description": "sdfl",
+      "id": 1
+    },
+    {
+      "title": "stream 10",
+      "description": "sdf",
+      "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "xxxdesc3",
+      "id": 3
+    },
+    {
+      "title": "Stream 4",
+      "description": "asdf",
+      "id": 4
+    },
+    {
+      "title": "with user 1",
+      "description": "sdf",
+      "userId": null,
+      "id": 5
+    },
+    {
+      "title": "6 - edited",
+      "description": "sdf",
+      "id": 6
+    },
+    {
+      "title": "Test navigation",
+      "description": "edited",
+      "id": 7
+    },
+    {
+      "title": "asdfs",
+      "description": "asfd",
+      "userId": "117947268503269568802",
+      "id": 8
+    }
+  ]
+}
